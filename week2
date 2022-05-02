@@ -3,3 +3,4 @@ constructors-
 constructor() <Access Modifier> {          
 } 
 It’s an optional function which initializes state variables of the contract. A constructor can be either internal or public, an internal constructor marks contract as abstract. 
+is called once the contract is created
