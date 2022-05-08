@@ -18,7 +18,30 @@ contract HelloWorld{
     
 }
 
+//SPDX-License-Identifier:UNLICENSED
 
+pragma solidity ^0.8.4;
+ 
+contract ReadWrite {
+
+
+   uint num;//default value is zero
+
+   function get() public view returns(uint){
+       //reading a variable from blockchaim
+       return num;
+   }
+
+   function set(uint _num) public{//taking a value as argument for num
+       //writing a variable
+       num =_num;
+       //override the existinfg value with new value
+       //state of the variable gets updated on chain
+
+   }
+
+
+}
 
 
 
