@@ -76,3 +76,8 @@ so here byte1 -will hold a sequence of one byte
 *CONSTANTSS IN SOLIDITY*
 EX- address public constant MY_ADD=0x893648930401347
 thiss address will remain constant throughout the contract
+
+*ether and wei
+uint public onewei= 1 wei
+uint public oneether= 1 ether;
+i ether is equal to 10^18 wei
