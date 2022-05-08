@@ -70,3 +70,9 @@ address public addr =0x243873019470937401c
 14)fixed size byte array=byte1,byte2,byte3.....byte32---
 so here byte1 -will hold a sequence of one byte
 
+
+
+
+*CONSTANTSS IN SOLIDITY*
+EX- address public constant MY_ADD=0x893648930401347
+thiss address will remain constant throughout the contract
