@@ -62,3 +62,7 @@ address-0x0
 11)what is the default specifier for solidity?-Internal***********
 12)signed intergers- can hold *negative* value
 
+
+13)declaring a variable 
+address public addr =0x243873019470937401c
+
