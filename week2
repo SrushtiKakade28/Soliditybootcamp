@@ -17,3 +17,20 @@ used for longer comments
 contract HelloWorld{
     
 }
+
+
+
+
+
+8/05/22
+Reading and writing a state variable
+1)solidity is a statically ttyped language(matlab every variable will have an associated type with it during compilation time)
+2)the concept of undefined or null doesnt exist in solidity
+
+3)default value of boolean- false
+address-0x0
+4)int can of base sie from 8 to 256
+5)address holds a 20 bye value-address are of two types payable and non payable
+6)enums/struct -user defined data type
+7)struct is similar to clases s
+
