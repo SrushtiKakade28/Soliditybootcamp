@@ -80,4 +80,5 @@ thiss address will remain constant throughout the contract
 *ether and wei
 uint public onewei= 1 wei
 uint public oneether= 1 ether;
-i ether is equal to 10^18 wei
+1 ether is equal to 10^18 wei
+1 gwei =10^9 wei
