@@ -56,4 +56,9 @@ address-0x0
 5)address holds a 20 bye value-address are of two types payable and non payable
 6)enums/struct -user defined data type
 7)struct is similar to clases s
+8)bytes data type -used to holds sequence of bytes and used to store string
+9)address payable a-this makes the variable a payable
+10)we can make a non-payable add toa payable one one by involving typecastingg
+11)what is the default specifier for solidity?-Internal***********
+12)signed intergers- can hold *negative* value
 
