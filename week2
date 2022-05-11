@@ -82,3 +82,5 @@ uint public onewei= 1 wei
 uint public oneether= 1 ether;
 1 ether is equal to 10^18 wei
 1 gwei =10^9 wei
+
+
