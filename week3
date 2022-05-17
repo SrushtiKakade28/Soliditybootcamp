@@ -5,7 +5,13 @@ Contracts to write this week=
 
 #####Objectives of the week(Master the following concepts)#######
 
-- Data Locations
+- *Data Locations*
+
+keyword that define the data area where the variable is stored
+1)storage
+2)memory
+3)calldata
+
 - Events and Logging
 - Error Handling
 - Interfaces
